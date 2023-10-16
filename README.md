@@ -8,10 +8,15 @@ The data collected were randomly picked from listed firms in the stock exchange 
 Variables:
 
 Logarithm of Sales
+
 Fixed Financial Asset Ratio
+
 Financial Debt Ratio
+
 Standardization of Cash Conversion Cycle
+
 Dependent Variable:
+
 Gross Operating Profit
 
 
