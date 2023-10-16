@@ -31,14 +31,20 @@ The regression equation shows that there is a negative relationship between cash
 
 Multicollinearity Analysis:
 
-The regression model was tested for multicollinearlity. The result is as follow:
+The regression model was tested for multicollinearity. The result is as follows:
 
    Variable       VIF
+   
 0  fixed_fa  3.985362
+
 1  fin_debt  3.054183
+
 2       CCC  2.272340
+
 3  ln_sales  4.527277
+
 4        d1  2.368098
+
 5        d2  2.150644
 
 Variance Inflation Factor (VIF) is used to detect whether one predictor has a strong linear association with the remaining predictors. As seen above, all had a variance inflation factor below 5, indicates that multicollinearity is not a significant issue in this model.
