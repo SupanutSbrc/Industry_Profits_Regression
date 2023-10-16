@@ -1,5 +1,4 @@
-
-
+An analysis employs a linear regression model to examine the impact of variables, including fixed assets ratio, financial debt ratio, cash conversion cycle, sales, and industry on the gross profit of companies.
 
 Data Collection:
 
@@ -9,15 +8,10 @@ The data collected were randomly picked from listed firms in the stock exchange 
 Variables:
 
 Logarithm of Sales
-
 Fixed Financial Asset Ratio
-
 Financial Debt Ratio
-
 Standardization of Cash Conversion Cycle
-
 Dependent Variable:
-
 Gross Operating Profit
 
 
