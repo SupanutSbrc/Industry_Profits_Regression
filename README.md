@@ -26,7 +26,9 @@ As the independent variables are fixed financial assets, natural logarithm of sa
 
 Gross Profit = 0.396012 + 0.254062 * fixed_fa + 0.395955 * fin_debt - 0.048680 * CCC - 0.018963 * ln_sales - 0.040748 * d1 + 0.088178 * d2
 
-The regression equation shows that there is a negative relationship between cash conversion cycle and profitability, which is consistent with the general statement that a lower cash conversion cycle will generate more profits. Moreover, fixed financial asset ratio also shows a positive correlation with gross operating profits. However, two results stand out as unexpected in this analysis. The negative relationship between the natural logarithm of sales and gross profit and the positive relationship between financial debt ratio and gross profit. Such unexpected result required a deeper research to find specific conditions that are contributing to such correlations.
+The regression equation shows that there is a negative relationship between cash conversion cycle and profitability, which is consistent with the general statement that a lower cash conversion cycle will generate more profits. Moreover, fixed financial asset ratio also shows a positive correlation with gross operating profits. 
+
+However, two results stand out as unexpected in this analysis. The negative relationship between the natural logarithm of sales and gross profit and the positive relationship between financial debt ratio and gross profit. Such unexpected results required deeper research to find specific conditions that are contributing to such correlations.
 
 
 Multicollinearity Analysis:
