@@ -38,4 +38,4 @@ The regression model was tested for multicollinearity. The result is as follows:
 ![image](https://github.com/SupanutSbrc/Industry_Profits_Regression/assets/147172225/e07cb083-33f8-4f1f-acec-ddcf75db8141)
 
 
-Variance Inflation Factor (VIF) is used to detect whether one predictor has a strong linear association with the remaining predictors. As seen above, all variables have a variance inflation factor between 2 to 5, indicating that there are moderate correlations between variables, but still acceptable. 
+Variance Inflation Factor (VIF) is used to detect whether one predictor has a strong linear association with the remaining predictors. As seen above, all variables have a variance inflation factor between 1 to 3, indicating that there are moderate correlations between variables, but still acceptable. 
